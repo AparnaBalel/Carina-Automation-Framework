@@ -1,0 +1,13 @@
+
+  {
+    "name": "${weather.cityName}",
+    "local_names": {
+      "en": "${weather.cityName}"
+    },
+    "lat": "Type:Double",
+    "lon": "Type:Double",
+    "country": "Type:String",
+    "state": "Type:String"
+  }
+
+

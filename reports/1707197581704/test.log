@@ -1,0 +1,15 @@
+[2024-02-06 05:33:01] [1] [INFO] [TestNG] Running:
+  C:\Users\advai\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+[2024-02-06 05:33:06] [1] [INFO] Request method:	GET
+Request URI:	http://api.openweathermap.org/geo/1.0/direct?q=%7Bcity%20name%7D%2C%7Bstate%20code%7D%2C%7Bcountry%20code%7D&limit=%7Blimit%7D&appid=%7BAPI%20key%7D
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Body:			<none>
+

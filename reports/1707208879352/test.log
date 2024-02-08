@@ -1,0 +1,15 @@
+[2024-02-06 08:41:19] [1] [INFO] [TestNG] Running:
+  C:\Users\advai\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+[2024-02-06 08:41:23] [1] [INFO] Request method:	GET
+Request URI:	http://localhost:8080/%24%7Bbase_url%7D
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Body:			<none>
+

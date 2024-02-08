@@ -1,0 +1,30 @@
+[2024-02-08 09:04:37] [1] [INFO] [TestNG] Running:
+  C:\Users\advai\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+[2024-02-08 09:04:44] [1] [INFO] Request method:	GET
+Request URI:	https://api.openweathermap.org/data/2.5/weather?latitude=latitude&longitude=longitude&appid=APIkey&API%20key=72052cf2683f2922ada9f7ac00449440
+Request params:	<none>
+Query params:	API key=72052cf2683f2922ada9f7ac00449440
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Body:			<none>
+HTTP/1.1 401 Unauthorized
+Server: openresty
+Date: Thu, 08 Feb 2024 09:04:43 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 108
+Connection: keep-alive
+X-Cache-Key: /data/2.5/weather?API%20key=72052cf2683f2922ada9f7ac00449440&latitude=latitude&longitude=longitude
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST
+
+{
+    "cod": 401,
+    "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."
+}
+
