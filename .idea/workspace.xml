@@ -4,160 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff471a3-cb32-4aed-b767-7b835d7c0bd9" name="Changes" comment="carina api testing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/carina_WEB/bayValleyTech/ContactUsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/carina_WEB/bayValleyTech/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/carina_WEB/bayValleyTech/components/footer/Footer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/carina_WEB/bayValleyTech/components/header/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/carina_WEB/bayValleyTech/components/header/HeaderMenuComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/carina_WEB/bayValleyTech/components/main/ContactPageComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/carina_WEB/bayValleyTech/components/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/weather/carina_API/api/GetUserList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/solvd/webTesting/ContactUsPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/solvd/webTesting/HomeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707188808929/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707189775495/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707189841990/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707195847703/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707196913209/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707197401354/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707197469284/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707197581704/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707197609939/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707197622056/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707197812642/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707198116313/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707198232843/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707198485770/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707204077523/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707204208481/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707205407163/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707206426703/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707206671622/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707206686987/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707206700892/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707206910124/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707207006831/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707207455469/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707208066664/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707208546887/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707208879352/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707209107640/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707209610117/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707209656061/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707237689050/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707238206413/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707241952286/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707243491640/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707243550296/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707243626984/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707244035651/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707244082263/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707244326144/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707244553864/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707244830384/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707245281785/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707245319140/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707245615363/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707245714758/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707245798694/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707245869771/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707245980149/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707246614935/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707246649921/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707246662042/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707246786684/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707247006804/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707247080676/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707247122226/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707268575265/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707269209812/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707269658998/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707269766023/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707269839317/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707270639159/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707271019958/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707271145072/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707271373437/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707271496435/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707271507515/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707271556695/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707271766269/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707271882295/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707272141520/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707272992632/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707273269504/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707276254799/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707276382365/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707277341051/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707277438603/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707277591526/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707277695994/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707277760488/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707277974936/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707278062811/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707291426983/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707291469503/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707291482592/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707291752089/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707291805012/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707292850278/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707293184202/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707293352046/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707293643930/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707294956731/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707324913944/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707325081591/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707325457311/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707325653224/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707325727207/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707326115940/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707326185262/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707326473501/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707326887166/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707326974135/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707327016233/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707327193568/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707327318745/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707328800494/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707328884739/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707329970763/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707330054507/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707373917614/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707373964739/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707374292414/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707374558055/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707374684586/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707374729193/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707374779103/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707374925232/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707375008898/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707375240727/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707376898845/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707377004346/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707377335616/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707378351382/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707378563005/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707378633173/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707382175267/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707382271518/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707382647779/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707382738196/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707382848602/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707382978202/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/1707383077859/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/weather/api/GetUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/weather/carina_API/api/GetUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/weather/api/GetUserList.groovy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/weather/api/GetWeatherByCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/weather/carina_API/api/GetWeatherByCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/weather/api/GetWeatherByCoordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/weather/carina_API/api/GetWeatherByCoordinates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/weather/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/weather/carina_API/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/weather/domain/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/weather/carina_API/domain/Weather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/_config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/solvd/weather/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/solvd/weather/UserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/solvd/weather/WeatherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/solvd/weather/WeatherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/weather_suites.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/weather_suites.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ff471a3-cb32-4aed-b767-7b835d7c0bd9" name="Changes" comment="carina api testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -331,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707384745948</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="carina api testing">
+      <created>1707735231330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707735231330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
