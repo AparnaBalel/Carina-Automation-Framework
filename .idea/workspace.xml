@@ -61,7 +61,7 @@
       <recent name="com.solvd.weather.api" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.HomeTest.verifyApplyLink">
+  <component name="RunManager" selected="TestNG.HomeTest.verifyAllHeaderLinks">
     <configuration name="HomeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Carina_AutomationFramework" />
       <extension name="coverage">
@@ -153,10 +153,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomeTest.verifyApplyLink" />
-        <item itemvalue="TestNG.HomeTest.verifyHTMLSiteLink" />
         <item itemvalue="TestNG.HomeTest.verifyAllHeaderLinks" />
+        <item itemvalue="TestNG.HomeTest.verifyApplyLink" />
         <item itemvalue="TestNG.HomeTest.verifyHeader" />
+        <item itemvalue="TestNG.HomeTest.verifyHTMLSiteLink" />
         <item itemvalue="TestNG.HomeTest" />
       </list>
     </recent_temporary>
@@ -216,22 +216,6 @@
     <MESSAGE value="carina api testing" />
     <MESSAGE value="carina web testing" />
     <option name="LAST_COMMIT_MESSAGE" value="carina web testing" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/solvd/webTesting/HomeTest.java</url>
-          <line>99</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/solvd/webTesting/HomeTest.java</url>
-          <line>108</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

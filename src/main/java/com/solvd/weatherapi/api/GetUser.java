@@ -1,4 +1,4 @@
-package com.solvd.weather.carina_API.api;
+package com.solvd.weatherapi.api;
 
 import com.zebrunner.carina.api.AbstractApiMethodV2;
 import com.zebrunner.carina.api.annotation.Endpoint;

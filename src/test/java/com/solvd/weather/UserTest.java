@@ -1,7 +1,7 @@
 package com.solvd.weather;
 
-import com.solvd.weather.carina_API.api.GetUser;
-import com.solvd.weather.carina_API.api.GetUserList;
+import com.solvd.weatherapi.api.GetUser;
+import com.solvd.weatherapi.api.GetUserList;
 import com.zebrunner.carina.api.http.HttpResponseStatusType;
 import org.testng.annotations.Test;
 

@@ -1,4 +1,4 @@
-package com.solvd.weather.carina_API.domain;
+package com.solvd.weatherapi.domain;
 
 public class Weather {
 

@@ -1,34 +1,26 @@
-package com.solvd.carina_WEB.bayValleyTech;
+package com.solvd.carinawebbayvalleytech;
 
-import com.solvd.carina_WEB.bayValleyTech.components.footer.Footer;
-import com.solvd.carina_WEB.bayValleyTech.components.header.Header;
-import com.solvd.carina_WEB.bayValleyTech.components.header.HeaderLinks;
-import com.solvd.carina_WEB.bayValleyTech.components.main.Main;
+import com.solvd.carinawebbayvalleytech.components.footer.Footer;
+import com.solvd.carinawebbayvalleytech.components.header.Header;
+import com.solvd.carinawebbayvalleytech.components.main.Main;
 import com.zebrunner.carina.utils.config.Configuration;
 import com.zebrunner.carina.webdriver.gui.AbstractPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
 
-import java.util.List;
-
 public class HomePage extends AbstractPage {
-
       @FindBy (xpath= "//div[@id='masterPage']//header")
       private Header header;
-
-    @FindBy(xpath= "//div[@id='masterPage']//main")
-    private Main main;
-
-    public Main getMain() {
+      @FindBy(xpath= "//div[@id='masterPage']//main")
+      private Main main;
+      public Main getMain() {
         return main;
     }
-
-    @FindBy(xpath ="//div[@id='masterPage']//footer")
-    private Footer footer;
-
-    public Footer getFooter() {
+      @FindBy(xpath ="//div[@id='masterPage']//footer")
+      private Footer footer;
+      public Footer getFooter() {
         return footer;
-    }
+     }
 
     public HomePage(WebDriver driver) {
         super(driver);

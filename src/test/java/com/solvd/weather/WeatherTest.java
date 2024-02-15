@@ -1,8 +1,8 @@
 package com.solvd.weather;
 
-import com.solvd.weather.carina_API.api.GetWeatherByCoordinates;
-import com.solvd.weather.carina_API.api.GetWeatherByCity;
-import com.solvd.weather.carina_API.domain.Weather;
+import com.solvd.weatherapi.api.GetWeatherByCoordinates;
+import com.solvd.weatherapi.api.GetWeatherByCity;
+import com.solvd.weatherapi.domain.Weather;
 import com.zebrunner.carina.api.http.HttpResponseStatusType;
 import com.zebrunner.carina.utils.R;
 import org.testng.annotations.DataProvider;
