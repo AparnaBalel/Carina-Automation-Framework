@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff471a3-cb32-4aed-b767-7b835d7c0bd9" name="Changes" comment="carina api testing" />
+    <list default="true" id="7ff471a3-cb32-4aed-b767-7b835d7c0bd9" name="Changes" comment="carina web testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,8 +61,8 @@
       <recent name="com.solvd.weather.api" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ContactUsPageTest.ContactUsOrRequestInfoTitle">
-    <configuration name="ContactUsPageTest.ContactUsOrRequestInfoTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HomeTest.verifyApplyLink">
+    <configuration name="HomeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Carina_AutomationFramework" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +71,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.solvd.webTesting" />
-      <option name="MAIN_CLASS_NAME" value="com.solvd.webTesting.ContactUsPageTest" />
-      <option name="METHOD_NAME" value="ContactUsOrRequestInfoTitle" />
+      <option name="MAIN_CLASS_NAME" value="com.solvd.webTesting.HomeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest.verifyAllHeaderLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Carina_AutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvd.webTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvd.webTesting" />
+      <option name="MAIN_CLASS_NAME" value="com.solvd.webTesting.HomeTest" />
+      <option name="METHOD_NAME" value="verifyAllHeaderLinks" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -80,7 +97,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContactUsPageTest.ContactUsTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeTest.verifyApplyLink" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Carina_AutomationFramework" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +106,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.solvd.webTesting" />
-      <option name="MAIN_CLASS_NAME" value="com.solvd.webTesting.ContactUsPageTest" />
-      <option name="METHOD_NAME" value="ContactUsTitle" />
+      <option name="MAIN_CLASS_NAME" value="com.solvd.webTesting.HomeTest" />
+      <option name="METHOD_NAME" value="verifyApplyLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest.verifyHTMLSiteLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Carina_AutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvd.webTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvd.webTesting" />
+      <option name="MAIN_CLASS_NAME" value="com.solvd.webTesting.HomeTest" />
+      <option name="METHOD_NAME" value="verifyHTMLSiteLink" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -116,49 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.verifyUser (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Carina_AutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.solvd.weather.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.solvd.weather" />
-      <option name="MAIN_CLASS_NAME" value="com.solvd.weather.UserTest" />
-      <option name="METHOD_NAME" value="verifyUser" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeatherTest.verifyGetWeatherByCity (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Carina_AutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.solvd.weather.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.solvd.weather" />
-      <option name="MAIN_CLASS_NAME" value="com.solvd.weather.WeatherTest" />
-      <option name="METHOD_NAME" value="verifyGetWeatherByCity" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ContactUsPageTest.ContactUsOrRequestInfoTitle" />
-        <item itemvalue="TestNG.ContactUsPageTest.ContactUsTitle" />
+        <item itemvalue="TestNG.HomeTest.verifyApplyLink" />
+        <item itemvalue="TestNG.HomeTest.verifyHTMLSiteLink" />
+        <item itemvalue="TestNG.HomeTest.verifyAllHeaderLinks" />
         <item itemvalue="TestNG.HomeTest.verifyHeader" />
-        <item itemvalue="TestNG.UserTest.verifyUser (1)" />
-        <item itemvalue="TestNG.WeatherTest.verifyGetWeatherByCity (1)" />
+        <item itemvalue="TestNG.HomeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707735231330</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="carina api testing">
+      <created>1707735483664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707735483664</updated>
+    </task>
+    <task id="LOCAL-00004" summary="carina web testing">
+      <created>1707735627586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707735627586</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +214,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="carina api testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="carina api testing" />
+    <MESSAGE value="carina web testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="carina web testing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/solvd/webTesting/HomeTest.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/solvd/webTesting/HomeTest.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

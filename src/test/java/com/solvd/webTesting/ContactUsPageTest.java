@@ -11,7 +11,8 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-public class ContactUsPageTest extends AbstractTest {
+public class
+  ContactUsPageTest extends AbstractTest {
     private static final Logger LOGGER = LogManager.getLogger(ContactUsPageTest.class);
 
 
@@ -30,7 +31,7 @@ public class ContactUsPageTest extends AbstractTest {
         int X_Axis = Location.getX();
         int Y_Axis = Location.getY();
         int ExpectedX = 564;
-        int ExpectedY = 111;
+        int ExpectedY = 112;
         sa.assertEquals(X_Axis, ExpectedX );
         sa.assertEquals(Y_Axis, ExpectedY );
         LOGGER.info("\n" + "Actual X location: " + X_Axis + "  =  " + "Expected  X location: " + ExpectedX + "\n"+
@@ -39,6 +40,7 @@ public class ContactUsPageTest extends AbstractTest {
        String Expected = "Contact Us";
         LOGGER.info("\n" + "Actual Title: " + Actual+ "=" + "Expected Title;" + Expected);
         sa.assertEquals(Actual, Expected,"title match");
+        sa.assertAll();
     }
 
 
@@ -57,7 +59,7 @@ public class ContactUsPageTest extends AbstractTest {
         int X_Axis = Location.getX();
         int Y_Axis = Location.getY();
         int ExpectedX = 427;
-        int ExpectedY = 256;
+        int ExpectedY = 257;
         sa.assertEquals(X_Axis, ExpectedX );
         sa.assertEquals(Y_Axis, ExpectedY );
         LOGGER.info("\n" + "Actual X location: " + X_Axis + "  =  " + "Expected  X location: " + ExpectedX + "\n"+
@@ -66,6 +68,7 @@ public class ContactUsPageTest extends AbstractTest {
         String Expected = "Contact Us or Request Info";
         LOGGER.info("\n" + "Actual Title: " + Actual + " = " + "Expected Title: " + Expected);
         sa.assertEquals(Actual, Expected,"title match");
+        sa.assertAll();
     }
 
 

@@ -14,9 +14,13 @@ public class Main  extends AbstractUIObject {
 
     private ContactPageComponent contactPage;
 
-////div[@class='HT5ybB']
-
     public ContactPageComponent getContactPage() {
         return contactPage;
+    }
+    @FindBy(xpath =".//section[@id='comp-lloe4p6q']") // apply  link
+    private HTMLSitemapComponent htmlSitemapComponent;
+
+    public HTMLSitemapComponent getHtmlSitemapComponent() {
+        return htmlSitemapComponent;
     }
 }

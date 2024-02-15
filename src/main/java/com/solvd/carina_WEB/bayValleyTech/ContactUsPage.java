@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
 
 public class ContactUsPage extends AbstractPage {
-//
+
     public ContactUsPage(WebDriver driver) {
         super(driver);
         //  setPageURL("/"); // second approach PROD.url
@@ -18,7 +18,6 @@ public class ContactUsPage extends AbstractPage {
     public void open() {
         openURL(Configuration.getRequired("home_url")); // third approach
     }
-
 
     @FindBy(xpath= "//div[@id='masterPage']//main")
     private Main main;
